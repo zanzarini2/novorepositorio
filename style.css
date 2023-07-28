@@ -19,7 +19,20 @@
 width: 20%;
 }
 
-.escola-imagem{
-    width: 150%;
+.escola {
+    background-image: linear-gradient(#CB73F4, #e4c6f1);
+}
 
+.escola-imagem{
+    width: 80%;
+
+}
+
+.escola-texto {
+    padding: 10px;
+    margin: 0px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
