@@ -1,8 +1,10 @@
-header{
+.cabecalho{
     background-color: #CB73F4;
+    color:#ffff;
+    display: flex;
+
 }
 
 img{
 width: 50%;
-
 }
