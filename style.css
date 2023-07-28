@@ -2,9 +2,15 @@
     background-color: #CB73F4;
     color:#ffff;
     display: flex;
+    justify-content: space-around;
+
+}
+
+.cabecalho-lista {
+    display: inline-block;
 
 }
 
 img{
-width: 50%;
+width: 20%;
 }
