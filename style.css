@@ -30,7 +30,7 @@ width: 30%;
 }
 
 .escola-imagem{
-    width: 45%;
+    width: 32%;
 
 }
 
@@ -50,4 +50,8 @@ body {
 
 .escola-div-conteudo{
     width:50%;
+}
+
+.estudante-imagem {
+    width: 30%;
 }
