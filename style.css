@@ -36,11 +36,12 @@ width: 30%;
 
 .escola-titulo {
     padding: 20px 0;
+    font-size: 20px;
 
 }
 
 .escola-texto {
-    width: 12px;
+    font-size: 12px;
 }
 
 body {
