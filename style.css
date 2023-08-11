@@ -42,8 +42,7 @@ width: 30%;
 
 .escola-texto {
     font-size: 18px;
-    text-align: center;
-}
+    }
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -58,6 +57,10 @@ body {
 }
 
 .estudante-div {
+    text-align: center;
+}
+
+.estudante-titulo {
     text-align: center;
 }
 
