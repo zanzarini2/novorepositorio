@@ -55,3 +55,8 @@ body {
 .estudante-imagem {
     width: 10%;
 }
+
+.estudante-todos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
