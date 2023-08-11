@@ -56,6 +56,10 @@ body {
     width: 30%;
 }
 
+.estudante-div {
+    text-align: center;
+}
+
 .estudante-todos1 {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
