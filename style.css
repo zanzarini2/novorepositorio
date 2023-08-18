@@ -74,7 +74,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: #CB73F4;
     display: flex;
     justify-content: space-around;
     align-items: center;
